@@ -1,0 +1,11 @@
+body {
+  font-family: "Bebas Neue", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  margin: 0 auto;
+  text-align: center;
+  color: brown;
+  margin-top: 100px;
+}
